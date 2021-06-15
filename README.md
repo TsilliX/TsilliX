@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris Tsiligaridis
+- 👋 Hi, I’m Chris Tsiligkaridis
 - 👀 I’m interested in Software Development/Cybersecurity
 - 🌱 I’m currently learning building mobile apps with Flutter framework
 - 💞️ I’m looking to collaborate on mobile app development
