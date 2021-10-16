@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Tsiligkaridis
 - 👀 I’m interested in Software Development/Cybersecurity
-- 🌱 I’m currently learning building mobile apps with Flutter framework
+- 🌱 I’m currently learning building mobile apps with Flutter framework / Studying for CCNA 200-301
 - 💞️ I’m looking to collaborate on mobile app development
 
 <!---
